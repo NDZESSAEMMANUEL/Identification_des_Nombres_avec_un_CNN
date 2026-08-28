@@ -59,7 +59,7 @@ Exécuter le script principal :
 ```bash
 python mnist_cnn.py
 ```
-
+![Description](./img.png)
 Le script va :
 1. Charger et préparer les données MNIST.
 2. Construire et compiler le modèle CNN.
