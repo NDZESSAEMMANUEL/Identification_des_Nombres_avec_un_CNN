@@ -1,0 +1,33 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Cache et données téléchargées (dataset MNIST, poids, etc.)
+.keras/
+*.h5
+*.keras
+*.weights.h5
+data/
+datasets/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements et configuration IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
